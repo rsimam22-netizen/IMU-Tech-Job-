@@ -33,10 +33,10 @@ define('APP_URL', 'https://YOUR-DOMAIN-HERE');
 // DB_PASS = আপনার Database Password
 //
 
-define('DB_HOST', 'YOUR-DATABASE-HOST');
-define('DB_NAME', 'YOUR-DATABASE-NAME');
-define('DB_USER', 'YOUR-DATABASE-USER');
-define('DB_PASS', 'YOUR-DATABASE-PASSWORD');
+define('DB_HOST', 'sql109.infinityfree.com');
+define('DB_NAME', 'if0_42862717_XXX');
+define('DB_USER', 'if0_42862717');
+define('DB_PASS', 'TFGCfM1oNk');
 define('DB_CHARSET', 'utf8mb4');
 
 // --------------------------------------------------
